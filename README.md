@@ -11,8 +11,7 @@ https://expo.dev/@ecanunkor/react_native_jobs?serviceType=classic&distribution=e
 
 
 ## 🔥 Demo
-![thumbnail_IMG_0341](https://user-images.githubusercontent.com/63639477/231213612-7e8dbeb5-f39b-4d2c-8b0b-c249e9157715.jpg)
-![thumbnail_IMG_0340](https://user-images.githubusercontent.com/63639477/231213620-e4ea3c74-f524-4aa4-9d58-104e2c2d05ea.jpg)
+![thumbnail_IMG_0341](https://user-images.githubusercontent.com/63639477/231213612-7e8dbeb5-f39b-4d2c-8b0b-c249e9157715.jpg) ![thumbnail_IMG_0340](https://user-images.githubusercontent.com/63639477/231213620-e4ea3c74-f524-4aa4-9d58-104e2c2d05ea.jpg)
 
 
 ## 🚀 How to use
