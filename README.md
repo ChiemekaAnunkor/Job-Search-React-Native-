@@ -2,6 +2,12 @@
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
+
+## 🌀 deployed app
+
+https://expo.dev/@ecanunkor/react_native_jobs?serviceType=classic&distribution=expo-go
+
+
 ## 🚀 How to use
 
 ```sh
