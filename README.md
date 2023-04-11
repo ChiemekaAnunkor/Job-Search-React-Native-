@@ -4,8 +4,9 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 
 ## 🌀 deployed app
-
 https://expo.dev/@ecanunkor/react_native_jobs?serviceType=classic&distribution=expo-go
+
+![reactnativepap](https://user-images.githubusercontent.com/63639477/231211908-213b680b-a2cf-4ea8-9bce-7cec2cce20e0.PNG)
 
 
 ## 🚀 How to use
